@@ -7,13 +7,13 @@
 ## 🛠️ **Technologies & Tools**
 
 **Languages**: Python, C++, C, C#, SQL, Java, JavaScript, Bootstrap, VHDL, MATLAB, RTOS
-**Frameworks**: flask, LiveKit, Node.js, BigQuery, Looker Studio 
-**Software**: Git , GitHub, Linux, AutoCAD, SolidWorks,
-**Hardware**: DMM, Oscilloscope
+**Frameworks**: flask, React, Pytorch, Tenserflow, Kubernets, Docker, OpenCV, LiveKit, Node.js, BigQuery, Looker Studio 
+**Software**: Git, GitHub, Linux, AutoCAD, SolidWorks,
+**Protocolls**: I2C, UART, TCP, UDP
 
 ---
 
-## 🌟 **What I'm Working On**
+## 🌟 Experiences**
 
 I’m a software and automation engineer focused on building robust, end-to-end systems that solve real-world problems. Most recently at **Untether AI**, I developed a scalable Python automation pipeline that cut multi-day chip screening analysis down to seconds, leveraging Pandas, `.pkl` DataFrames, Git, and Linux-based tools to streamline post-silicon validation. At **IKO Industries**, I used JavaScript, Node.js, and Google BigQuery to optimize internal tool usage, cutting request times by over 30%. I’m also a firmware developer on the **Midnight Sun Solar Car Team**, programming STM32 microcontrollers for power systems and driver controls.
 
