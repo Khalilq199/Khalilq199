@@ -13,7 +13,7 @@ Hi, I'm Khalil, a Mechatronics Engineering student at the University of Waterloo
 
 ---
 
-## Experiences**
+## **Experiences**
 
 I’m a software and automation engineer focused on building robust, end-to-end systems that solve real-world problems. Most recently at **Untether AI**, I developed a scalable Python automation pipeline that cut multi-day chip screening analysis down to seconds, leveraging Pandas, `.pkl` DataFrames, Git, and Linux-based tools to streamline post-silicon validation. At **IKO Industries**, I used JavaScript, Node.js, and Google BigQuery to optimize internal tool usage, cutting request times by over 30%. I’m also a firmware developer on the **Midnight Sun Solar Car Team**, programming STM32 microcontrollers for power systems and driver controls.
 
