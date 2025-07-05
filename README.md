@@ -1,28 +1,22 @@
-# Khalil Ahmad Qamar
+class Khalil:
+    def __init__(self):
+        self.university = "University of Waterloo"
+        self.program = "Mechatronics Engineering"
+        self.specialties = ["AI", "Automation", "Making things work"]
+        self.likes = ["Coffee ☕", "Clean code", "Debugging at 2AM"]
+        self.spirit_animal = "Terminal prompt with a sense of humor"
 
-Hi, I'm Khalil, a Mechatronics Engineering student at the University of Waterloo, passionate about building efficient, scalable, and innovative solutions. My interests lie at the intersection of software development, automation, autonomous systems.
+    def build(self, idea):
+        print(f"Turning '{idea}' into reality... 🚀")
 
----
+    def caffeinate(self):
+        print("Injecting espresso... Productivity boosted by +10 ⚡")
 
-## **Technologies & Tools**
+    def __str__(self):
+        return f"{self.program} student @ {self.university}, fueled by code and caffeine."
 
-**Languages**: Python, C++, C, C#, SQL, Java, JavaScript, Bootstrap, VHDL, MATLAB, RTOS
-**Frameworks**: flask, React, Pytorch, Tenserflow, Kubernets, Docker, OpenCV, LiveKit, Node.js, BigQuery, Looker Studio 
-**Software**: Git, GitHub, Linux, AutoCAD, SolidWorks,
-**Protocolls**: I2C, UART, TCP, UDP
-
----
-
-
-## **Passion Projects**
-
-Whether it’s programming an autonomous **pick-and-place robot in C**, building a **Flask-based secure note-taking app**, or experimenting with **AI voice assistants** using FastAPI, OpenAI, and WebSockets, I enjoy blending hardware with software and theory with application. I thrive on breaking down complex systems and delivering clean, scalable solutions from the ground up.
-
----
-
-## 🎯 **What's Next?**
-
-I’m now diving deeper into **real-time systems, embedded development**, and **AI-integrated backend engineering**. I’m always open to collaborations and conversations about building smarter, faster, and more meaningful tech. Let’s connect.
-
-[LinkedIn](https://linkedin.com/in/khalil-ahmad-qamar/) • [Email](Khalilq199@gmail.com)
-
+if __name__ == "__main__":
+    me = Khalil()
+    print(me)
+    me.build("AI-powered assistant")
+    me.caffeinate()
