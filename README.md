@@ -22,3 +22,16 @@ if __name__ == "__main__":
     print(me)
     me.build("AI-powered assistant")
     me.caffeinate()
+```
+```
+> connect --user khalil_qamar --auth mechatronics+ai
+Authenticating...
+Access granted ✅
+>
+> ping khalil
+📫 kaqamar@uwaterloo.ca  
+🌐 [LinkedIn](https://www.linkedin.com/in/khalil-qamar/)
+>
+> exit
+Session closed. Thanks for stopping by.
+```
